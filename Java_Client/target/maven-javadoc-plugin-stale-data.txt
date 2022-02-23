@@ -1,0 +1,65 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Kieran/.m2/repository/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LeapMotion Gemini Java 0.1 API'
+-use
+-version
+-windowtitle
+'LeapMotion Gemini Java 0.1 API'
+com.kieranwaugh
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Arm.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Bone.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Center.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Client.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Direction.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Finger.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Frame.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Hand.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/NextJoint.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/PalmNormal.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/PalmPosition.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/PalmVelocity.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/PrevJoint.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Rotation.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/Server.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/StabilizedPalmPosition.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/TipPosition.java'
+'C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Java_Client/src/main/java/com/kieranwaugh/WristPosition.java'
+C:\Users\Kieran\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar = 1644321070936
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\src\main\java = 1645633985501
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\allclasses-index.html = 1645639396291
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\allpackages-index.html = 1645639396295
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\deprecated-list.html = 1645639396256
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\element-list = 1645639396101
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\help-doc.html = 1645639396349
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\index-all.html = 1645639396338
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\index.html = 1645639396342
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\jquery-ui.overrides.css = 1645639396398
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\member-search-index.js = 1645639396303
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\module-search-index.js = 1645639396297
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\overview-tree.html = 1645639396247
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\package-search-index.js = 1645639396299
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\script.js = 1645639396354
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\search.js = 1645639396359
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\stylesheet.css = 1645639396352
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\tag-search-index.js = 1645639396305
+C:\Users\Kieran\Projects\LeapMotion_Java_Socket - release\Java_Client\target\apidocs\type-search-index.js = 1645639396300
