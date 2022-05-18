@@ -41,7 +41,7 @@ public class Server : MonoBehaviour
         {
             connected_Text.text = "Connected";
             connected_Text.color = Color.green;
-            info_Text.text = "You can now minimuse this window.";
+            info_Text.text = "You can now minimise this window.";
             info_Text.color = Color.black;
 
             try
@@ -64,6 +64,7 @@ public class Server : MonoBehaviour
             }
             catch (Exception e)
             {
+                info_Text.fontSize = 20;
                 info_Text.text = e.Message;
                 info_Text.color = Color.red;
                 connected = false;
@@ -74,6 +75,7 @@ public class Server : MonoBehaviour
         {
             connected_Text.text = "Not Connected";
             connected_Text.color = Color.red;
+            info_Text.text = "Please connect an Ultraleap device.";
         }
         
             

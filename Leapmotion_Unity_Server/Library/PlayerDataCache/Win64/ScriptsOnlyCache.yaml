@@ -43,25 +43,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1518}
+      Script: {instanceID: 1558}
     - Class: 114
-      Script: {instanceID: 2156}
+      Script: {instanceID: 2196}
     - Class: 114
-      Script: {instanceID: 2320}
+      Script: {instanceID: 2360}
     - Class: 114
-      Script: {instanceID: 2520}
+      Script: {instanceID: 2560}
     - Class: 114
-      Script: {instanceID: 2664}
+      Script: {instanceID: 2704}
     - Class: 114
-      Script: {instanceID: 2870}
+      Script: {instanceID: 2910}
     - Class: 114
-      Script: {instanceID: 2948}
+      Script: {instanceID: 2988}
     - Class: 114
-      Script: {instanceID: 3080}
+      Script: {instanceID: 3120}
     - Class: 114
-      Script: {instanceID: 3464}
+      Script: {instanceID: 3504}
     - Class: 114
-      Script: {instanceID: 3696}
+      Script: {instanceID: 3736}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -898,4 +898,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Kieran/Projects/LeapMotion_Java_Socket - release/Leapmotion_Unity_Server/Build/LeapClient.exe
+  playerPath: C:/Users/Kieran-Work/Projects/LeapMotion-Gemini-Java-Implementation/Leapmotion_Unity_Server/Build/LeapServer.exe
